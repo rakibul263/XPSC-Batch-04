@@ -22,7 +22,7 @@ int main()
         result = 0;
         for (ll p = 0; p < n; p++)
         {
-            ll x, count = 0;
+             ll x, count = 0;
             ;
             cin >> x;
             while (x > 1)
